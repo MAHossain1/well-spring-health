@@ -1,0 +1,60 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "E:\\projects\\bootcamp\\next\\HealthCare-Server\\logs\\winston\\successes\\.7ad65c2d678f7a6885b1dad4a267d38cfb7c2dc5-audit.json",
+    "files": [
+        {
+            "date": 1730599715495,
+            "name": "E:\\projects\\bootcamp\\next\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-03-11-08-success.log",
+            "hash": "31fbdea68e538d78404c29014430a4da643baef00e4645bf08d4bee900f7c6d8"
+        },
+        {
+            "date": 1731034671288,
+            "name": "E:\\projects\\bootcamp\\next\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-08-11-08-success.log",
+            "hash": "b5d343b1db659e7c58e815fcb1c42ef1daceb74106b38eae03634953ebe8bf66"
+        },
+        {
+            "date": 1731035415819,
+            "name": "E:\\projects\\bootcamp\\next\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-08-11-09-success.log",
+            "hash": "5bd2d06fe4aa921f1b8fc6f1d5114f094ab25311c0b9fcf2fa57f37715e14a30"
+        },
+        {
+            "date": 1731155490910,
+            "name": "E:\\projects\\bootcamp\\next\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-09-11-18-success.log",
+            "hash": "ff653ab8ee8284e83b6cba2b48a65907cc61ab4882b7290d5357072b9906ac34"
+        },
+        {
+            "date": 1731208166225,
+            "name": "E:\\projects\\bootcamp\\next\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-10-11-09-success.log",
+            "hash": "13f0bf81795077907bc620c307002399306d8c4a03914e97725719874f1b47eb"
+        },
+        {
+            "date": 1731237105777,
+            "name": "E:\\projects\\bootcamp\\next\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-10-11-17-success.log",
+            "hash": "630125d7be5db7073b790f603fd6bc5fd220e24c5c8640b8beb882d2ab30d4d1"
+        },
+        {
+            "date": 1731247469797,
+            "name": "E:\\projects\\bootcamp\\next\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-10-11-20-success.log",
+            "hash": "ac21414b4e45d1859586e3ce557ef6d7e0899d493352a87c1ac167739b9b909a"
+        },
+        {
+            "date": 1731290372837,
+            "name": "E:\\projects\\bootcamp\\next\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-11-11-07-success.log",
+            "hash": "f2bb6666b5f3ebef1026ab2146f94fb2d19d92b3af47cd8f59052d470b76d3a3"
+        },
+        {
+            "date": 1731291340527,
+            "name": "E:\\projects\\bootcamp\\next\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-11-11-08-success.log",
+            "hash": "b44d975ce6aa766b37abd15da6db53e3fc9da0c80416e9dcb6495fd143b43eb0"
+        },
+        {
+            "date": 1731334315542,
+            "name": "E:\\projects\\bootcamp\\next\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-11-11-20-success.log",
+            "hash": "78577d7e2d5fd3feb7963fde6ab9b2fdc55ad7dd675c29114ca2331a5b3b03f3"
+        }
+    ],
+    "hashType": "sha256"
+}

@@ -1,0 +1,60 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "E:\\projects\\bootcamp\\next\\HealthCare-Server\\logs\\winston\\errors\\.8ea1d881a3d027fc974516ce5a38e19ed7e32b71-audit.json",
+    "files": [
+        {
+            "date": 1730599715505,
+            "name": "E:\\projects\\bootcamp\\next\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-03-11-08-error.log",
+            "hash": "bdac626e98bc177b80cc667f8fef9fdb7434d54210671320c22bc07c2b60ce56"
+        },
+        {
+            "date": 1731034671300,
+            "name": "E:\\projects\\bootcamp\\next\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-08-11-08-error.log",
+            "hash": "156bae4a7be3adb58e4b82c3073adc3db9a7d46703cc7da763f1298f4799fec4"
+        },
+        {
+            "date": 1731035415822,
+            "name": "E:\\projects\\bootcamp\\next\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-08-11-09-error.log",
+            "hash": "c22b689cbc36d2d4694dcf24d37777f78416f56174162d6818e1619cec3992f5"
+        },
+        {
+            "date": 1731155490920,
+            "name": "E:\\projects\\bootcamp\\next\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-09-11-18-error.log",
+            "hash": "80256230fbc3980a55871644bf5ebb49b1cb8d2ac5417f35b54a1300042e4b88"
+        },
+        {
+            "date": 1731208166236,
+            "name": "E:\\projects\\bootcamp\\next\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-10-11-09-error.log",
+            "hash": "56a2f1c7a7c125939bfb14c3a7fef00b95f8ed1840bba67ada1f55dcdf7a4a86"
+        },
+        {
+            "date": 1731237105794,
+            "name": "E:\\projects\\bootcamp\\next\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-10-11-17-error.log",
+            "hash": "b7a3d54bd21860699748176e972dfc12fe75b49ff780f4e865a9d482fe1aaf9e"
+        },
+        {
+            "date": 1731247469800,
+            "name": "E:\\projects\\bootcamp\\next\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-10-11-20-error.log",
+            "hash": "4a247af6d013b07014cf35e16e54f255fa683a23334c51212a16e22f15f8ff2b"
+        },
+        {
+            "date": 1731290372849,
+            "name": "E:\\projects\\bootcamp\\next\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-11-11-07-error.log",
+            "hash": "c5749601e06c3f74303162ad7c8fe117d823dd06982faab7516f26a927812e83"
+        },
+        {
+            "date": 1731291340530,
+            "name": "E:\\projects\\bootcamp\\next\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-11-11-08-error.log",
+            "hash": "97088ec1f117c0d37e0f09cac885fd2b6adccb98a256e2be5dc913966badfe15"
+        },
+        {
+            "date": 1731334315552,
+            "name": "E:\\projects\\bootcamp\\next\\HealthCare-Server\\logs\\winston\\errors\\phu-2024-11-11-20-error.log",
+            "hash": "287eaea01ed6496f12b90b03c36363f469e122e4b810c4bf2046709cb2bed712"
+        }
+    ],
+    "hashType": "sha256"
+}

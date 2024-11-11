@@ -12,7 +12,7 @@ import { Request } from 'express';
 import { IUploadFile } from '../../../interfaces/file';
 import { FileUploadHelper } from '../../../helpers/fileUploadHelper';
 import meiliClient from '../../../shared/meilisearch';
-const index = meiliClient.index('doctors');
+// const index = meiliClient.index('doctors');
 
 const createDoctor = async (req: Request) => {
   const file = req.file as IUploadFile;
@@ -38,7 +38,7 @@ const createDoctor = async (req: Request) => {
     });
 
     const { id, email, name, contactNumber, address } = newDoctor;
-    await index.addDocuments([{ id, email, name, contactNumber, address }]);
+    // await index.addDocuments([{ id, email, name, contactNumber, address }]);
 
     return newDoctor;
   });
@@ -272,7 +272,7 @@ const updateMyProfile = async (authUser: any, req: Request) => {
 
   if (profileData && 'address' in profileData) {
     const { id, email, name, contactNumber, address } = profileData;
-    await index.updateDocuments([{ id, email, name, contactNumber, address }]);
+    // await index.updateDocuments([{ id, email, name, contactNumber, address }]);
   }
 
   return { ...profileData, ...userData };
